@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+    int x,y,z,SI,T;
+    printf("Enter the amount:");
+    scanf("%d",&x);
+    printf("Enter the time:");
+    scanf("%d",&y);
+    printf("Enter the interest:");
+    scanf("%d",&z);
+    SI=(x*y*z)/100;
+    T=SI+x;
+    printf("Simple Interst :%d",SI);
+    printf("\nTotal Amount:%d",T);
+}
