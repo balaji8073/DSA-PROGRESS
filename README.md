@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/balaji8073/DSA-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3701-compute-alternating-sum](https://github.com/balaji8073/DSA-PROGRESS/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/balaji8073/DSA-PROGRESS/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/balaji8073/DSA-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/balaji8073/DSA-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
